@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Adidas 4DFWD 2 Running Shoes",
-      "description": "The adidas 4DFWD 2 redefines evolution, combining the unique innovation of a pioneering 3D-printed midsole with a new upper structure and a Continental outsole for superior grip. The adidas 4DFWD 2 midsole compresses and reduces braking forces, turning impact energy into momentum with every step.",
+      "description": "The adidas 4DFWD 2 redefines evolution, combining the unique innovation of a pioneering 3D-printed midsole with a new upper structure and a Continental outsole for superior grip.",
       "price": 1599.99,
       "discountPercentage": null,
       "rating": 4.69,
@@ -21,7 +21,7 @@
     {
       "id": 2,
       "title": "SNEAKERS ULTRABOOST 22",
-      "description": "Probably the most comfortable running shoe we've ever made. Ultraboost 22 ensures a responsive run, whatever your training level or distance covered. Comfort is provided by the cozy adidas PRIMEKNIT upper and the incredible energy return of BOOST.",
+      "description": "Probably the most comfortable running shoe we've ever made. Ultraboost 22 ensures a responsive run, whatever your training level or distance covered.",
       "price": 1299.99,
       "discountPercentage": null,
       "rating": 4.9,
@@ -57,7 +57,7 @@
     {
       "id": 4,
       "title": "Mizuno Frontier 13 Men's Running Shoes",
-      "description": "Upper with modern fabric, which maintains the breathability of the feet during training, in addition to having Infinity Wave technology with long-lasting cushioning. TECHNOLOGIES: X10, Rubber and carbon compound that offers greater durability and grip to the sole at the entrance of the step. Wave Infinity, combination of two EVAs with different densities in WAVE design providing greater cushioning.",
+      "description": "Upper with modern fabric, which maintains the breathability of the feet during training, in addition to having Infinity Wave technology with long-lasting cushioning.",
       "price": 599.99,
       "discountPercentage": 20,
       "rating": 4.44,
@@ -75,7 +75,7 @@
     {
       "id": 5,
       "title": "Men's Nike Revolution 6 Next Nature Shoes",
-      "description": "Cheers to new beginnings between you and the sidewalks. Set the pace at the start of your run with the plush feel of the Nike Revolution 6 Next Nature. We know comfort is key to a successful run, so we've added cushioning and flexibility for a smoother ride. It's the evolution of a favorite with a breathable design, made with at least 20% recycled content by weight.",
+      "description": "Cheers to new beginnings between you and the sidewalks. Set the pace at the start of your run with the plush feel of the Nike Revolution 6 Next Nature.",
       "price": 399.99,
       "discountPercentage": 17.5,
       "rating": 4.26,
@@ -93,7 +93,7 @@
     {
       "id": 6,
       "title": "Gray Slip On Tricot Sneakers",
-      "description": "Platform sneakers in gray knit. Tennis is indicated for the practice of light sports, such as hiking and outdoor sports. The model features Calce Fácil technology, with a design that facilitates adapting the shoe to the ergonomics of the feet.",
+      "description": "Platform sneakers in gray knit. Tennis is indicated for the practice of light sports, such as hiking and outdoor sports.",
       "price": 209.90,
       "discountPercentage": 10,
       "rating": 3,
@@ -129,7 +129,7 @@
     {
       "id": 8,
       "title": "Sandals Hybrid City",
-      "description": "The Havaianas Hybrid City is minimalist chic and very comfortable. In neutral colors, they have laminated fabric and soles and straps in contrasting tones. Elegance in the form of a slipper! It has a traditional and smooth sole, a type of wide strip with a contrasting logo.",
+      "description": "The Havaianas Hybrid City is minimalist chic and very comfortable. In neutral colors, they have laminated fabric and soles and straps in contrasting tones.",
       "price": 99.99,
       "discountPercentage": 3,
       "rating": 5,
@@ -147,7 +147,7 @@
     {
       "id": 9,
       "title": "Sandals Havaianas Hybrid City",
-      "description": "For a chic minimalism, but without forgetting comfort, the Havaianas Hybrid City are right. In neutral and earthy colors, they have laminated fabric and soles and straps in contrasting tones. A real hit in the form of a slipper!",
+      "description": "For a chic minimalism, but without forgetting comfort, the Havaianas Hybrid City are right. In neutral and earthy colors, they have laminated fabric and soles and straps in contrasting tones.",
       "price": 54.90,
       "discountPercentage": 5,
       "rating": 4.26,
@@ -183,7 +183,7 @@
     {
       "id": 11,
       "title": "MEN'S BOOTS ELIE VIBRAM AMIRI COGNAC",
-      "description": "Élie has the purpose of uniting two forces: exclusive design and comfort, which is why our shoes are handcrafted in noble export-grade leather, including the inner lining and insole, for better sweat absorption. This ensures your satisfaction and comfort.",
+      "description": "Élie has the purpose of uniting two forces: exclusive design and comfort, which is why our shoes are handcrafted in noble export-grade leather, including the inner lining and insole, for better sweat absorption.",
       "price": 709.90,
       "discountPercentage": 5,
       "rating": 5,
@@ -201,7 +201,7 @@
     {
       "id": 12,
       "title": "SNEAKERS OLD SKOOL BLACK WHITE",
-      "description": "What started out as a doodle by Paul Van Doren, originally called the “Jazz Stripe,” has become one of the hallmarks of the Vans brand. The Classic Old Skool is a low-top lace-up shoe featuring sturdy black canvas and suede uppers, a white leather sidestripe and white rubber side welts with reinforced toecaps to withstand repeated wear, padded collars for support and flexibility and the brand's classic vulcanized rubber waffle outsole.",
+      "description": "What started out as a doodle by Paul Van Doren, originally called the “Jazz Stripe,” has become one of the hallmarks of the Vans brand.",
       "price": 369.99,
       "discountPercentage": 12,
       "rating": 3.89,
@@ -219,7 +219,7 @@
     {
       "id": 13,
       "title": "Lacoste Sneakers",
-      "description": "Stylish to compose versatile and modern looks with a sporty touch on different casual occasions, the Lacoste Shoes are the right choice. Its structure is made of synthetic material with the iconic embroidered logo that enhances the look. The rubberized midsole and outsole combine naturalness in the steps with more grip on the surface. Check the price and be sure to buy yours!",
+      "description": "Stylish to compose versatile and modern looks with a sporty touch on different casual occasions, the Lacoste Shoes are the right choice. Its structure is made of synthetic material with the iconic embroidered logo that enhances the look.",
       "price": 399.99,
       "discountPercentage": 25,
       "rating": 4.5,
@@ -235,45 +235,9 @@
       ]
     },
     {
-      "id": 14,
-      "title": "Men's Casual Polo Shoes",
-      "description": "Men's Shoes Polo Blu Comfort Casual !! Â The Sapatenis Polo Blu, is a basic model and at the same time modern, thus bringing the ease of fitting into any Look, from the Casual Model, to the most daring. Resistant product that provides great grip when walking.",
-      "price": 69.89,
-      "discountPercentage": null,
-      "rating": 3.33,
-      "stock": 23,
-      "brand": "Polo",
-      "category_id": 7,
-      "thumbnail": "Casual-Polo-Shoes-1",
-      "images": [
-        "Casual-Polo-Shoes-2",
-        "Casual-Polo-Shoes-4",
-        "Casual-Polo-Shoes-1",
-        "Casual-Polo-Shoes-3"
-      ]
-    },
-    {
-      "id": 15,
-      "title": "SNEAKERS SK8-HI BOLT LIQUIFY AVOCADO",
-      "description": "The Sk8-Hi was introduced in 1978 as the Style 38, embracing Vans' now-iconic side stripe in an innovative new high-top silhouette. As only the second model to carry the recognizable branding formerly known as the “jazz stripe,” the Sk8-Hi brought a whole new look to the Vans family – and now the Sk8-Hi Bolt takes the style even further.",
-      "price": 549.99,
-      "discountPercentage": 10,
-      "rating": 4.68,
-      "stock": 29,
-      "brand": "Vans",
-      "category_id": 7,
-      "thumbnail": "SK8-HI-BOLT-LIQUIFY-AVOCADO-1",
-      "images": [
-        "SK8-HI-BOLT-LIQUIFY-AVOCADO-4",
-        "SK8-HI-BOLT-LIQUIFY-AVOCADO-2",
-        "SK8-HI-BOLT-LIQUIFY-AVOCADO-4",
-        "SK8-HI-BOLT-LIQUIFY-AVOCADO-3"
-      ]
-    },
-    {
       "id": 16,
       "title": "Harrison Grand 2.0 Cap Toe Monk Strap Loafer",
-      "description": "Cole Haan has been synonymous with quality, craftsmanship and style since its founding in 1928. Frequent collaborations with prominent designers, athletes and tastemakers—contemporary collections showcase CFDA-nominated menswear designer Todd Snyder and a trio of ballerinas from the New York City Ballet—keep Cole Haan at the forefront of innovation and excellence.",
+      "description": "Cole Haan has been synonymous with quality, craftsmanship and style since its founding in 1928. Frequent collaborations with prominent designers, athletes and tastemakers—contemporary collections showcase...",
       "price": 1194.60,
       "discountPercentage": 35,
       "rating": 3.7,
@@ -304,60 +268,6 @@
         "Conard-Cap-Toe-Oxford-2",
         "Conard-Cap-Toe-Oxford-1",
         "Conard-Cap-Toe-Oxford-4"
-      ]
-    },
-    {
-      "id": 18,
-      "title": "Anthony Veer Roosevelt II Double Monk Strap Slip-On",
-      "description": "The classic style and craftsmanship make the Anthony Veer Roosevelt II double monk strap slip-on an embodiment of sophistication. Boasting a Goodyear welt construction, this dress shoe comes with a full grain leather upper and is grounded with a recraftable leather outsole.",
-      "price": 1083.94,
-      "discountPercentage": null,
-      "rating": 5,
-      "stock": 5,
-      "brand": "Nordstrom",
-      "category_id": 6,
-      "thumbnail": "Anthony-Veer-Roosevelt-II-1",
-      "images": [
-        "Anthony-Veer-Roosevelt-II-2",
-        "Anthony-Veer-Roosevelt-II-4",
-        "Anthony-Veer-Roosevelt-II-1",
-        "Anthony-Veer-Roosevelt-II-3"
-      ]
-    },
-    {
-      "id": 19,
-      "title": "MEN'S CUSTOM SHOES DERBY",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Placeat minima perferendis neque ea suscipit fugit quaerat rerum numquam nesciunt nisi praesentium doloribus, repudiandae quibusdam nulla assumenda accusamus sint inventore rem. Dolor, numquam cum culpa est laborum, inventore officia delectus quo amet quos impedit ex molestias aspernatur. Soluta reiciendis nulla quisquam beatae saepe cumque, sunt nostrum. Reprehenderit sit iure quibusdam quod.",
-      "price": 398.00,
-      "discountPercentage": 6,
-      "rating": 3.96,
-      "stock": 16,
-      "brand": "Derby",
-      "category_id": 6,
-      "thumbnail": "SHOES-DERBY-1",
-      "images": [
-        "SHOES-DERBY-2",
-        "SHOES-DERBY-1",
-        "SHOES-DERBY-2",
-        "SHOES-DERBY-1"
-      ]
-    },
-    {
-      "id": 20,
-      "title": "MILITARY BOOTS STEEL SNIPER DESERT",
-      "description": "The Sniper model is one of our most comfortable models, offering a lot of mobility, internal ventilation and great resistance, the model becomes a great option for all types of terrain and utility.",
-      "price": 479.90,
-      "discountPercentage": 10,
-      "rating": 3.6,
-      "stock": 123,
-      "brand": "Acero",
-      "category_id": 4,
-      "thumbnail": "MILITARY-BOOTS-STEEL-SNIPER-DESERT-1",
-      "images": [
-        "MILITARY-BOOTS-STEEL-SNIPER-DESERT-3",
-        "MILITARY-BOOTS-STEEL-SNIPER-DESERT-2",
-        "MILITARY-BOOTS-STEEL-SNIPER-DESERT-1",
-        "MILITARY-BOOTS-STEEL-SNIPER-DESERT-4"
       ]
     },
     {
