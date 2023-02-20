@@ -23,8 +23,8 @@ On the Men page, the user can sort products by brand, highest rating, lowest and
 
 ## 📑 Index
 
--   [Overview](#🔗-overview)
-	- [Access to project demo](#access-to-project-demo)
+-   [Overview](#overview)
+	- [Access to project demo](#project)
 	- [What users are able to do](#what-users-should-be-able-to-do)
 - [Project development](#project-development)
     -   [ Built with](#built-with)
@@ -37,9 +37,9 @@ On the Men page, the user can sort products by brand, highest rating, lowest and
 -  [Author](#author)
 
 
-## 🔗Overview
+<h2 id='overview'> 🔗  🔗 Overview</h2>
 
-### 🔗 Access to project demo
+<h3 id="project"> 🔗 Access to project demo</h3>
 
 You can access the project's source code by [download](https://github.com/anthonibs/e-commerce-sneakers-store/archive/refs/heads/main.zip).
 
