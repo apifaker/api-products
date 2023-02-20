@@ -1,5 +1,5 @@
 
-[![banner-e-commer-store-sneakers-banner-sneakers-1.png](https://i.postimg.cc/JhcLWWWf/banner-e-commer-store-sneakers-banner-sneakers-1.png)](https://postimg.cc/7C6cgdh9)] 
+[![banner-e-commer-store-sneakers-banner-sneakers-1.png](https://i.postimg.cc/JhcLWWWf/banner-e-commer-store-sneakers-banner-sneakers-1.png)](https://postimg.cc/7C6cgdh9)
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/anthonibs/e-commerce-sneakers-store?color=green&label=version) ![GitHub](https://img.shields.io/github/license/anthonibs/e-commerce-sneakers-store?color=green) ![GitHub repo size](https://img.shields.io/github/repo-size/anthonibs/e-commerce-sneakers-store?color=green)  ![GitHub last commit](https://img.shields.io/github/last-commit/anthonibs/e-commerce-sneakers-store?color=green)
 
@@ -23,7 +23,7 @@ On the Men page, the user can sort products by brand, highest rating, lowest and
 
 ## 📑 Index
 
--   [Overview](#overview)
+-   [Overview](#👨‍💻-overview)
 	- [Access to project demo](#access-to-project-demo)
 	- [What users are able to do](#what-users-should-be-able-to-do)
 - [Project development](#project-development)
